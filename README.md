@@ -30,9 +30,10 @@ val aMessageFromMe = """
 ```
 
 Kotlin solutions for my [Advent of Code 2024](https://adventofcode.com/2024).
-If you're looking for the 2023 solutions, [you can find it here](https://github.com/cortinico/adventofcode-2023).
-If you're looking for the 2021 solutions (almost all of them!), [you can find it here](https://github.com/cortinico/adventofcode-2021).
-If you're looking for the 2020 solutions, [you can find it here](https://github.com/cortinico/adventofcode-2020).
+
+* If you're looking for the 2023 solutions, [you can find it here](https://github.com/cortinico/adventofcode-2023).
+* If you're looking for the 2021 solutions (almost all of them!), [you can find it here](https://github.com/cortinico/adventofcode-2021).
+* If you're looking for the 2020 solutions, [you can find it here](https://github.com/cortinico/adventofcode-2020).
 
 If you enjoyed the event, don't forget to [support the event](https://adventofcode.com/2024/support) ❤️.
 
